@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Manvith Shetty! 👋
 
 Welcome to my GitHub! I'm passionate about coding, problem-solving, and building innovative projects.
 
