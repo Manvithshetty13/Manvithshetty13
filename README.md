@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm passionate about coding, problem-solving, and building
 - Experimenting with **[Django]**.
 
 ## 🔧 Tech Stack
-- **Languages:** C, Python, [Others you use]
+- **Languages:** C, Python
 - **Frameworks & Libraries:** React, Node.js, Django
 - **Tools:** Git, Docker, VS Code, Linux
 - **Cloud:** AWS
